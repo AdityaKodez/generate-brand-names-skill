@@ -1,6 +1,6 @@
 # Generate Brand Names Skill
 
-A ZCode skill for generating premium, distinctive brand names for SaaS, AI products, developer tools, apps, and digital services.
+A  skill for generating premium, distinctive brand names for SaaS, AI products, developer tools, apps, and digital services.
 
 The skill is designed to avoid generic startup naming patterns and produce names with stronger roots in technical, historical, natural, mythological, linguistic, or scientific domains.
 
