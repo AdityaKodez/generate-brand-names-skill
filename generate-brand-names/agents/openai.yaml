@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Name Generator"
+  short_description: "Create premium distinctive SaaS names"
+  default_prompt: "Use $generate-brand-names to create premium, distinctive SaaS product names."
